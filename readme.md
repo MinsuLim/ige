@@ -44,7 +44,7 @@ If you have any comments, questions, requests etc please don't hesitate to discu
 MIT
 
 ## Intellectual Property, Ownership & Copyright
-(C)opyright 2013 Irrelon Software Limited
+(C)opyright 2017 Irrelon Software Limited
 http://www.irrelon.com
 
 * Website: http://www.isogenicengine.com
